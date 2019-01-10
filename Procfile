@@ -1,1 +1,1 @@
-web:gunicorn ryanquestioner
+web: gunicorn run:ryan_app
